@@ -1,0 +1,46 @@
+Log Start
+Andrew has driven 0.0 feet  out of 2000.0 feet with speed 5.0 with 13.95 gallons of fuel remaining.
+Andrew has driven 5.0 feet  out of 2000.0 feet with speed 10.0 with 13.85 gallons of fuel remaining.
+Andrew has driven 15.0 feet  out of 2000.0 feet with speed 15.0 with 13.7 gallons of fuel remaining.
+Andrew has driven 30.0 feet  out of 2000.0 feet with speed 20.0 with 13.5 gallons of fuel remaining.
+Andrew has driven 50.0 feet  out of 2000.0 feet with speed 25.0 with 13.25 gallons of fuel remaining.
+Andrew has driven 75.0 feet  out of 2000.0 feet with speed 30.0 with 12.95 gallons of fuel remaining.
+Andrew has driven 105.0 feet  out of 2000.0 feet with speed 35.0 with 12.6 gallons of fuel remaining.
+Andrew has driven 140.0 feet  out of 2000.0 feet with speed 40.0 with 12.2 gallons of fuel remaining.
+Andrew has driven 180.0 feet  out of 2000.0 feet with speed 45.0 with 11.75 gallons of fuel remaining.
+Andrew has driven 225.0 feet  out of 2000.0 feet with speed 50.0 with 11.25 gallons of fuel remaining.
+Andrew has driven 275.0 feet  out of 2000.0 feet with speed 55.0 with 10.7 gallons of fuel remaining.
+Andrew has driven 330.0 feet  out of 2000.0 feet with speed 60.0 with 10.1 gallons of fuel remaining.
+Andrew has driven 390.0 feet  out of 2000.0 feet with speed 65.0 with 9.45 gallons of fuel remaining.
+Andrew has driven 455.0 feet  out of 2000.0 feet with speed 70.0 with 8.75 gallons of fuel remaining.
+Andrew has driven 525.0 feet  out of 2000.0 feet with speed 75.0 with 8.0 gallons of fuel remaining.
+Andrew has driven 600.0 feet  out of 2000.0 feet with speed 80.0 with 7.2 gallons of fuel remaining.
+Andrew has driven 680.0 feet  out of 2000.0 feet with speed 85.0 with 6.3500000000000005 gallons of fuel remaining.
+Andrew has driven 765.0 feet  out of 2000.0 feet with speed 90.0 with 5.45 gallons of fuel remaining.
+Andrew has driven 855.0 feet  out of 2000.0 feet with speed 95.0 with 4.5 gallons of fuel remaining.
+Andrew has driven 950.0 feet  out of 2000.0 feet with speed 100.0 with 3.5 gallons of fuel remaining.
+Andrew has driven 1050.0 feet  out of 2000.0 feet with speed 105.0 with 2.45 gallons of fuel remaining.
+Andrew has driven 1155.0 feet  out of 2000.0 feet with speed 110.0 with 1.35 gallons of fuel remaining.
+Andrew has stopped.
+Andrew has refueled.
+Andrew has driven 1265.0 feet  out of 2000.0 feet with speed 0.0 with 14.099999999999966 gallons of fuel remaining.
+Andrew has driven 1265.0 feet  out of 2000.0 feet with speed 5.0 with 14.049999999999965 gallons of fuel remaining.
+Andrew has driven 1270.0 feet  out of 2000.0 feet with speed 10.0 with 13.949999999999966 gallons of fuel remaining.
+Andrew has driven 1280.0 feet  out of 2000.0 feet with speed 15.0 with 13.799999999999965 gallons of fuel remaining.
+Andrew has driven 1295.0 feet  out of 2000.0 feet with speed 20.0 with 13.599999999999966 gallons of fuel remaining.
+Andrew has driven 1315.0 feet  out of 2000.0 feet with speed 25.0 with 13.349999999999966 gallons of fuel remaining.
+Andrew has driven 1340.0 feet  out of 2000.0 feet with speed 30.0 with 13.049999999999965 gallons of fuel remaining.
+Andrew has driven 1370.0 feet  out of 2000.0 feet with speed 35.0 with 12.699999999999966 gallons of fuel remaining.
+Andrew has driven 1405.0 feet  out of 2000.0 feet with speed 40.0 with 12.299999999999965 gallons of fuel remaining.
+Andrew has driven 1445.0 feet  out of 2000.0 feet with speed 45.0 with 11.849999999999966 gallons of fuel remaining.
+Andrew has driven 1490.0 feet  out of 2000.0 feet with speed 50.0 with 11.349999999999966 gallons of fuel remaining.
+Andrew has driven 1540.0 feet  out of 2000.0 feet with speed 55.0 with 10.799999999999965 gallons of fuel remaining.
+Andrew has driven 1595.0 feet  out of 2000.0 feet with speed 60.0 with 10.199999999999966 gallons of fuel remaining.
+Andrew has driven 1655.0 feet  out of 2000.0 feet with speed 65.0 with 9.549999999999965 gallons of fuel remaining.
+Andrew has driven 1720.0 feet  out of 2000.0 feet with speed 70.0 with 8.849999999999966 gallons of fuel remaining.
+Andrew has driven 1790.0 feet  out of 2000.0 feet with speed 75.0 with 8.099999999999966 gallons of fuel remaining.
+Andrew has driven 1865.0 feet  out of 2000.0 feet with speed 80.0 with 7.299999999999966 gallons of fuel remaining.
+Andrew has driven 1945.0 feet  out of 2000.0 feet with speed 85.0 with 6.449999999999966 gallons of fuel remaining.
+Andrew has driven 2030.0 feet  out of 2000.0 feet with speed 90.0 with 5.549999999999966 gallons of fuel remaining.
+Andrew has stopped.
+Andrew has finished driving after 2030.0 feet.

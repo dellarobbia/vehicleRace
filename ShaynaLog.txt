@@ -1,0 +1,273 @@
+Log Start
+Shayna has driven 0.0 feet  out of 10000.0 feet with speed 10.0 with 4.9 gallons of fuel remaining.
+Shayna has driven 10.0 feet  out of 10000.0 feet with speed 20.0 with 4.7 gallons of fuel remaining.
+Shayna has driven 30.0 feet  out of 10000.0 feet with speed 30.0 with 4.4 gallons of fuel remaining.
+Shayna has driven 60.0 feet  out of 10000.0 feet with speed 40.0 with 4.0 gallons of fuel remaining.
+Shayna has driven 100.0 feet  out of 10000.0 feet with speed 50.0 with 3.5 gallons of fuel remaining.
+Shayna has driven 150.0 feet  out of 10000.0 feet with speed 60.0 with 2.9 gallons of fuel remaining.
+Shayna has driven 210.0 feet  out of 10000.0 feet with speed 70.0 with 2.1999999999999997 gallons of fuel remaining.
+Shayna has driven 280.0 feet  out of 10000.0 feet with speed 80.0 with 1.3999999999999997 gallons of fuel remaining.
+Shayna has driven 360.0 feet  out of 10000.0 feet with speed 90.0 with 0.49999999999999967 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 450.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 450.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 460.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 480.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 510.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 550.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 600.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 660.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 730.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 810.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 900.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 900.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 910.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 930.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 960.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 1000.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 1050.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 1110.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 1180.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 1260.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 1350.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 1350.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 1360.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 1380.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 1410.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 1450.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 1500.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 1560.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 1630.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 1710.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 1800.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 1800.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 1810.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 1830.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 1860.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 1900.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 1950.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 2010.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 2080.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 2160.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 2250.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 2250.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 2260.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 2280.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 2310.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 2350.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 2400.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 2460.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 2530.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 2610.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 2700.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 2700.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 2710.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 2730.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 2760.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 2800.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 2850.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 2910.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 2980.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 3060.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 3150.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 3150.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 3160.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 3180.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 3210.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 3250.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 3300.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 3360.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 3430.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 3510.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 3600.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 3600.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 3610.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 3630.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 3660.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 3700.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 3750.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 3810.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 3880.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 3960.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 4050.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 4050.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 4060.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 4080.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 4110.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 4150.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 4200.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 4260.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 4330.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 4410.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 4500.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 4500.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 4510.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 4530.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 4560.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 4600.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 4650.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 4710.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 4780.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 4860.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 4950.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 4950.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 4960.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 4980.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 5010.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 5050.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 5100.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 5160.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 5230.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 5310.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 5400.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 5400.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 5410.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 5430.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 5460.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 5500.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 5550.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 5610.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 5680.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 5760.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 5850.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 5850.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 5860.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 5880.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 5910.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 5950.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 6000.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 6060.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 6130.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 6210.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 6300.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 6300.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 6310.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 6330.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 6360.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 6400.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 6450.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 6510.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 6580.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 6660.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 6750.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 6750.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 6760.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 6780.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 6810.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 6850.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 6900.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 6960.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 7030.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 7110.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 7200.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 7200.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 7210.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 7230.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 7260.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 7300.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 7350.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 7410.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 7480.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 7560.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 7650.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 7650.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 7660.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 7680.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 7710.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 7750.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 7800.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 7860.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 7930.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 8010.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 8100.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 8100.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 8110.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 8130.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 8160.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 8200.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 8250.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 8310.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 8380.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 8460.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 8550.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 8550.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 8560.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 8580.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 8610.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 8650.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 8700.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 8760.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 8830.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 8910.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 9000.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 9000.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 9010.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 9030.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 9060.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 9100.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 9150.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 9210.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 9280.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 9360.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 9450.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 9450.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 9460.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 9480.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 9510.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 9550.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 9600.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has driven 9660.0 feet  out of 10000.0 feet with speed 70.0 with 2.2999999999999976 gallons of fuel remaining.
+Shayna has driven 9730.0 feet  out of 10000.0 feet with speed 80.0 with 1.4999999999999976 gallons of fuel remaining.
+Shayna has driven 9810.0 feet  out of 10000.0 feet with speed 90.0 with 0.5999999999999975 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has refueled.
+Shayna has driven 9900.0 feet  out of 10000.0 feet with speed 0.0 with 5.099999999999998 gallons of fuel remaining.
+Shayna has driven 9900.0 feet  out of 10000.0 feet with speed 10.0 with 4.999999999999998 gallons of fuel remaining.
+Shayna has driven 9910.0 feet  out of 10000.0 feet with speed 20.0 with 4.799999999999998 gallons of fuel remaining.
+Shayna has driven 9930.0 feet  out of 10000.0 feet with speed 30.0 with 4.499999999999998 gallons of fuel remaining.
+Shayna has driven 9960.0 feet  out of 10000.0 feet with speed 40.0 with 4.099999999999998 gallons of fuel remaining.
+Shayna has driven 10000.0 feet  out of 10000.0 feet with speed 50.0 with 3.599999999999998 gallons of fuel remaining.
+Shayna has driven 10050.0 feet  out of 10000.0 feet with speed 60.0 with 2.999999999999998 gallons of fuel remaining.
+Shayna has stopped.
+Shayna has stopped.

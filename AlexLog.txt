@@ -1,0 +1,55 @@
+Log Start
+Alex has driven 0.0 feet  out of 2000.0 feet with speed 5.0 with 9.95 gallons of fuel remaining.
+Alex has driven 5.0 feet  out of 2000.0 feet with speed 10.0 with 9.85 gallons of fuel remaining.
+Alex has driven 15.0 feet  out of 2000.0 feet with speed 15.0 with 9.7 gallons of fuel remaining.
+Alex has driven 30.0 feet  out of 2000.0 feet with speed 20.0 with 9.5 gallons of fuel remaining.
+Alex has driven 50.0 feet  out of 2000.0 feet with speed 25.0 with 9.25 gallons of fuel remaining.
+Alex has driven 75.0 feet  out of 2000.0 feet with speed 30.0 with 8.95 gallons of fuel remaining.
+Alex has driven 105.0 feet  out of 2000.0 feet with speed 35.0 with 8.6 gallons of fuel remaining.
+Alex has driven 140.0 feet  out of 2000.0 feet with speed 40.0 with 8.2 gallons of fuel remaining.
+Alex has driven 180.0 feet  out of 2000.0 feet with speed 45.0 with 7.749999999999999 gallons of fuel remaining.
+Alex has driven 225.0 feet  out of 2000.0 feet with speed 50.0 with 7.249999999999999 gallons of fuel remaining.
+Alex has driven 275.0 feet  out of 2000.0 feet with speed 55.0 with 6.699999999999999 gallons of fuel remaining.
+Alex has driven 330.0 feet  out of 2000.0 feet with speed 60.0 with 6.1 gallons of fuel remaining.
+Alex has driven 390.0 feet  out of 2000.0 feet with speed 65.0 with 5.449999999999999 gallons of fuel remaining.
+Alex has driven 455.0 feet  out of 2000.0 feet with speed 70.0 with 4.749999999999999 gallons of fuel remaining.
+Alex has driven 525.0 feet  out of 2000.0 feet with speed 75.0 with 3.999999999999999 gallons of fuel remaining.
+Alex has driven 600.0 feet  out of 2000.0 feet with speed 80.0 with 3.1999999999999993 gallons of fuel remaining.
+Alex has driven 680.0 feet  out of 2000.0 feet with speed 85.0 with 2.349999999999999 gallons of fuel remaining.
+Alex has driven 765.0 feet  out of 2000.0 feet with speed 90.0 with 1.4499999999999993 gallons of fuel remaining.
+Alex has driven 855.0 feet  out of 2000.0 feet with speed 95.0 with 0.4999999999999992 gallons of fuel remaining.
+Alex has stopped.
+Alex has refueled.
+Alex has driven 950.0 feet  out of 2000.0 feet with speed 0.0 with 10.09999999999998 gallons of fuel remaining.
+Alex has driven 950.0 feet  out of 2000.0 feet with speed 5.0 with 10.04999999999998 gallons of fuel remaining.
+Alex has driven 955.0 feet  out of 2000.0 feet with speed 10.0 with 9.94999999999998 gallons of fuel remaining.
+Alex has driven 965.0 feet  out of 2000.0 feet with speed 15.0 with 9.79999999999998 gallons of fuel remaining.
+Alex has driven 980.0 feet  out of 2000.0 feet with speed 20.0 with 9.59999999999998 gallons of fuel remaining.
+Alex has driven 1000.0 feet  out of 2000.0 feet with speed 25.0 with 9.34999999999998 gallons of fuel remaining.
+Alex has driven 1025.0 feet  out of 2000.0 feet with speed 30.0 with 9.04999999999998 gallons of fuel remaining.
+Alex has driven 1055.0 feet  out of 2000.0 feet with speed 35.0 with 8.69999999999998 gallons of fuel remaining.
+Alex has driven 1090.0 feet  out of 2000.0 feet with speed 40.0 with 8.29999999999998 gallons of fuel remaining.
+Alex has driven 1130.0 feet  out of 2000.0 feet with speed 45.0 with 7.849999999999979 gallons of fuel remaining.
+Alex has driven 1175.0 feet  out of 2000.0 feet with speed 50.0 with 7.349999999999979 gallons of fuel remaining.
+Alex has driven 1225.0 feet  out of 2000.0 feet with speed 55.0 with 6.799999999999979 gallons of fuel remaining.
+Alex has driven 1280.0 feet  out of 2000.0 feet with speed 60.0 with 6.19999999999998 gallons of fuel remaining.
+Alex has driven 1340.0 feet  out of 2000.0 feet with speed 65.0 with 5.549999999999979 gallons of fuel remaining.
+Alex has driven 1405.0 feet  out of 2000.0 feet with speed 70.0 with 4.849999999999979 gallons of fuel remaining.
+Alex has driven 1475.0 feet  out of 2000.0 feet with speed 75.0 with 4.099999999999979 gallons of fuel remaining.
+Alex has driven 1550.0 feet  out of 2000.0 feet with speed 80.0 with 3.2999999999999794 gallons of fuel remaining.
+Alex has driven 1630.0 feet  out of 2000.0 feet with speed 85.0 with 2.4499999999999793 gallons of fuel remaining.
+Alex has driven 1715.0 feet  out of 2000.0 feet with speed 90.0 with 1.5499999999999794 gallons of fuel remaining.
+Alex has driven 1805.0 feet  out of 2000.0 feet with speed 95.0 with 0.5999999999999793 gallons of fuel remaining.
+Alex has stopped.
+Alex has refueled.
+Alex has driven 1900.0 feet  out of 2000.0 feet with speed 0.0 with 10.09999999999998 gallons of fuel remaining.
+Alex has driven 1900.0 feet  out of 2000.0 feet with speed 5.0 with 10.04999999999998 gallons of fuel remaining.
+Alex has driven 1905.0 feet  out of 2000.0 feet with speed 10.0 with 9.94999999999998 gallons of fuel remaining.
+Alex has driven 1915.0 feet  out of 2000.0 feet with speed 15.0 with 9.79999999999998 gallons of fuel remaining.
+Alex has driven 1930.0 feet  out of 2000.0 feet with speed 20.0 with 9.59999999999998 gallons of fuel remaining.
+Alex has driven 1950.0 feet  out of 2000.0 feet with speed 25.0 with 9.34999999999998 gallons of fuel remaining.
+Alex has driven 1975.0 feet  out of 2000.0 feet with speed 30.0 with 9.04999999999998 gallons of fuel remaining.
+Alex has driven 2005.0 feet  out of 2000.0 feet with speed 35.0 with 8.69999999999998 gallons of fuel remaining.
+Alex has stopped.
+Alex has finished driving after 2005.0 feet.
+Alex has stopped.
